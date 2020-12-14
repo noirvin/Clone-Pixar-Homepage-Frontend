@@ -1,0 +1,20 @@
+body {
+  background: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1592332191754-VXTWUXR1P8JSXH2OAK44/ke17ZwdGBToddI8pDm48kF0OLVcBpfeLArU44aYlu9h7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0vIHRucUU7a1Vci15HXS8HJfNvaWVx1ITdXEZlVZUBwpPgzugLHXTeT7NtT_SILjGA/soul1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.card{
+    margin-top: 1000px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 500px;
+}
+.text-white{
+    align-items: center;
+}
